@@ -1,3 +1,7 @@
+## 🌐 Демо
+
+**Попробовать AI-репетитора:** https://huggingface.co/spaces/Nikolga/python-tutor-rugpt
+
 # 🤖 Fine-tuning GPT-2 для AI-репетитора по Python
 
 ## 📋 Описание проекта
